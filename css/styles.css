@@ -1,0 +1,52 @@
+div.friends-section {
+  display: inline-block;
+}
+
+div.header h3 {
+  color: orange;
+  padding: 10px;
+  background-color: bisque;
+  margin-bottom: -7px;
+}
+
+div.header p {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+span.number {
+  color: red;
+}
+
+div.individual-friend {
+  width: 150px;
+  float: left;
+  text-align: center;
+}
+
+img.profile {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+  display: inline-block;
+  border: solid blue;
+}
+
+img.online {
+  width: 100px;
+}
+
+p.profile-name {
+  font-size: 15px;
+  color: blue;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 10px 0 3px 0;
+}
+
+p.view-all {
+  color: red;
+  font-weight: bold;
+  clear:both;
+  float: right;
+}
